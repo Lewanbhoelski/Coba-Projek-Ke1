@@ -2,6 +2,8 @@ Rencana Sertifikasi Tahap Ke2
 - Persiapan Modul
 - Training
 - Bootcamp
+  * Bootcamp1
+  * Bootcamp2
 - Sertifikasi Awal
 - Training Lanjutan
 - Sertifikasi lanjutan
