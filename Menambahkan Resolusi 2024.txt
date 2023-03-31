@@ -1,0 +1,4 @@
+Menambahkan Resolusi 2024
+- Training JIRA
+- Bootcamp JIRA
+- Sertifikasi JIRA
