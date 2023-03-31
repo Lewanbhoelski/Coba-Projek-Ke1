@@ -6,5 +6,6 @@ Rencana Sertifikasi Tahap Ke2
   * Bootcamp2
 - Sertifikasi Awal
 - Training Lanjutan
+  * Training Lanjutan1
 - Sertifikasi lanjutan
 - Mengaplikasikan All Materi
